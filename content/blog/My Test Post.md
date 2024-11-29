@@ -1,6 +1,6 @@
 # My Test Post page
 
-::newsletter-form
+::newsletter-form{name="ahmed"}
 ::
 
 done !!
